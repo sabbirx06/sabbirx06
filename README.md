@@ -1,24 +1,16 @@
-<table border="0">
-  <tr>
-    <td width="70%" valign="top">
-      <h1>Hi, I'm Sabbir 👋</h1>
-      <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1200&color=FF003C&background=0A0B1000&width=450&height=35&lines=Software+Engineer+%26+Builder;Cybersecurity+%26+Bug+Hunter;Next.js%2C+TypeScript+%26+Python;Crafting+CLI+tools+%26+web+apps;CSE+%40+BRAC+University%2C+Dhaka" alt="Typing Tagline" />
-      </p>
-      <p>
-        I build software that solves real friction — from multi-profile developer tooling to full-stack web platforms, cybersecurity research, and applied AI.
-      </p>
-      <p>
-        <a href="https://sabbirx06.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
-        <a href="https://www.linkedin.com/in/mohammed-sabbir-ahmed-655376287/"><img src="https://img.shields.io/badge/LinkedIn-E50914?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-        <a href="mailto:sabbir61002@gmail.com"><img src="https://img.shields.io/badge/Email-FF3366?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-      </p>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="220" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+# Hi, I'm Sabbir 👋
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1200&color=FF003C&background=0A0B1000&width=550&height=35&lines=Software+Engineer+%26+Builder;Cybersecurity+%26+Bug+Hunter;Next.js%2C+TypeScript+%26+Python;Crafting+CLI+tools+%26+web+apps;CSE+%40+BRAC+University%2C+Dhaka" alt="Typing Tagline" />
+</p>
+
+I build software that solves real friction — from multi-profile developer tooling to full-stack web platforms, cybersecurity research, and applied AI.
+
+<p>
+  <a href="https://sabbirx06.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-sabbir-ahmed-655376287/"><img src="https://img.shields.io/badge/LinkedIn-E50914?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="mailto:sabbir61002@gmail.com"><img src="https://img.shields.io/badge/Email-FF3366?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+</p>
 
 ---
 
@@ -66,11 +58,3 @@
 <img src="https://streak-stats.demolab.com/?user=sabbirx06&theme=dark&background=0d1117&border=ff003c&stroke=ff003c&ring=ff003c&fire=ff003c&currStreakNum=ff003c&currStreakLabel=ff003c&sideNums=ffffff&sideLabels=ff003c&dates=8b949e" width="97%" alt="Streak & Total Contributions" />
 
 </div>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ff003c/sabbirx06" alt="Sabbir's GitHub Contribution Chart" width="100%" />
-</p>
