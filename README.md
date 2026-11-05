@@ -9,7 +9,7 @@ I build software that solves real friction — from multi-profile developer tool
 <p>
   <a href="https://sabbirx06.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohammed-sabbir-ahmed-655376287/"><img src="https://img.shields.io/badge/LinkedIn-E50914?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="mailto:sabbir61002@gmail.com"><img src="https://img.shields.io/badge/Email-FF3366?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="mailto:mohammedsabbirahmed006@gmail.com"><img src="https://img.shields.io/badge/Email-FF3366?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 </p>
 
 ---
