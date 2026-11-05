@@ -16,13 +16,28 @@ I build software that solves real friction — from multi-profile developer tool
 
 ### 🛠️ Tech Stack & Arsenal
 
+**Languages**
 <p align="left">
-  <!-- Core Dev & Systems Stack -->
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,bash,powershell,react,nextjs,tailwind,astro,svelte,nodejs,express,postgres,mysql,supabase,mongodb,pytorch,docker,linux,git,postman&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,bash,powershell&theme=dark" alt="Languages" />
 </p>
 
+**Web & Frameworks**
 <p align="left">
-  <!-- Cybersecurity & Vulnerability Research Stack -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,svelte&theme=dark" alt="Web & Frameworks" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,mongodb&theme=dark" alt="Backend & Databases" />
+</p>
+
+**Systems, AI & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,docker,linux,git,postman&theme=dark" alt="Systems, AI & Infrastructure" />
+</p>
+
+**Cybersecurity & Vulnerability Research**
+<p align="left">
   <img src="https://img.shields.io/badge/Burp_Suite-FF003C?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0d1117" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/OWASP_Top_10-E50914?style=flat-square&logo=owasp&logoColor=white&labelColor=0d1117" alt="OWASP" />
   <img src="https://img.shields.io/badge/Nmap-FF003C?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117" alt="Nmap" />
@@ -45,16 +60,18 @@ I build software that solves real friction — from multi-profile developer tool
 
 ---
 
-### 📊 GitHub Activity & Total Contributions
+### 📊 Contributions & Activity
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=sabbirx06&show_icons=true&bg_color=0d1117&title_color=ff003c&text_color=e0e6ed&icon_color=ff003c&border_color=ff003c&hide_border=false" width="48%" alt="GitHub Stats" />
-<img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=sabbirx06&layout=compact&bg_color=0d1117&title_color=ff003c&text_color=e0e6ed&border_color=ff003c&hide_border=false" width="48%" alt="Top Languages" />
+<!-- 1-Year Live Contribution Graph & Activity Timeline (Dark Cyberpunk Theme) -->
+<a href="https://github.com/sabbirx06">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbirx06&theme=2077" width="97%" alt="1-Year Contribution Timeline & Activity" />
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- Active Streak & Total Contributions counter in high-tech Red Netrunner palette -->
+<!-- Active Streak & Total Contributions counter in Red Netrunner palette -->
 <img src="https://streak-stats.demolab.com/?user=sabbirx06&theme=dark&background=0d1117&border=ff003c&stroke=ff003c&ring=ff003c&fire=ff003c&currStreakNum=ff003c&currStreakLabel=ff003c&sideNums=ffffff&sideLabels=ff003c&dates=8b949e" width="97%" alt="Streak & Total Contributions" />
 
 </div>
